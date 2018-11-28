@@ -1,0 +1,21 @@
+#Testing_urls
+localhost:8888/mq-default.json
+localhost:8888/mq/default
+localhost:8888/db/default
+localhost:8888/db/qa
+localhost:8888/db/dev
+localhost:8888/db-qa.properties
+
+localhost:8888/myapp/default
+localhost:8888/myapp/dev
+localhost:8888/myapp-dev.json
+localhost:8888/myapp-default.json
+localhost:8888/myapp/default
+localhost:8888/myapp-default.json
+localhost:8888/myapp-dev.yml
+
+
+https://www.youtube.com/watch?v=OytqzGq9hmE	(Quick Start of Spring Cloud Config Server #1)
+https://www.youtube.com/watch?v=UDLNmiuSqBI	(Quick Start of Spring Cloud Config Server #2)
+https://www.youtube.com/watch?v=C6coAVlLFec	(Quick Start of Spring Cloud Config Server #3)
+https://www.youtube.com/watch?v=MoaF_G4qYW4	(Spring Cloud Config Server - Git Repo)
